@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Om Chauhan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif")
+<img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omchauhan16&label=Profile%20views&color=0e75b6&style=flat" alt="omchauhan16" /> </p>
 
